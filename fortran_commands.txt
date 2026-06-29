@@ -1,0 +1,3 @@
+Enter directory: pushd INSERTPATH
+complile: gfortran -o hello_world.exe hello_world.f90
+run: .\hello_world.exe
